@@ -22,14 +22,10 @@
 
 ### ./insta.sh
 
-### screenshot
+### ZOOM HACKERS INSTA ID 
 
-![capture](https://user-images.githubusercontent.com/33704360/39670422-5738279c-510d-11e8-9f6d-a8e24114a510.PNG)
+### https://instagram.com/zoom__hackers_official?igshid=YmMyMTA2M2Y=
 
-### YouTube Channel
+### VEERASIMHAN MASS INSTA ID 
 
-### https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA
-
-### Viddeo Tutorial
-
-### https://www.youtube.com/watch?v=a-moMHuZX_Q&t=11s
+### https://instagram.com/veerasimhan_mass?igshid=YmMyMTA2M2Y=
