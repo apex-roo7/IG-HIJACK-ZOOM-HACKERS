@@ -12,15 +12,15 @@
 
 ### Download&install
 
-### apt-get install tor
+### apt install tor
 
-### git clone https://github.com/Ha3MrX/InstaBrute
+### git clone https://github.com/veerasimhan-mass/IG-HIJACK-ZOOM-HACKERS.git
 
 ### cd InstaBrute
 
 ### chmod +x insta.sh
 
-### ./insta.sh
+### sudo ./insta.sh
 
 ### ZOOM HACKERS INSTA ID 
 
